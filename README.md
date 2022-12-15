@@ -21,7 +21,7 @@ This project uses Twitter data sourced from Kaggle. It consists of 1 million Twe
 
 ### Final Model: 
 
-* Achieved 80 percent recall, 73 percent ROC AUC score, 72 percent accuracy
+* Achieved 93 percent accuracy & F1
 
 ![Screen Shot 2022-12-15 at 2 33 11 PM](https://user-images.githubusercontent.com/102126161/207950596-6972a96b-7ca2-4ef4-80bc-a3e1c550a653.png)
 
