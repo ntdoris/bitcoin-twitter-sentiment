@@ -49,7 +49,9 @@ This project uses Twitter data sourced from [Kaggle](https://www.kaggle.com/data
 
 * Pull more recent Tweets on Bitcoin via Twitter API and run final model on real-time data
 * Use model-labeled Tweets to conduct Time Series Analysis, with the aim of understanding the predictive power of Tweet sentiment on the price of BTC
+
 ![image](https://github.com/ntdoris/dsc-project-4/blob/main/images/tweet_sentiment_vs_bitcoin_px.png)
+
 ![image](https://github.com/ntdoris/dsc-project-4/blob/main/images/tweet_volume_vs_bitcoin_px.png)
 
 ## For More Information
