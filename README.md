@@ -52,6 +52,7 @@ This project uses Twitter data sourced from [Kaggle](https://www.kaggle.com/data
 
 ![image](https://github.com/ntdoris/dsc-project-4/blob/main/images/tweet_sentiment_vs_bitcoin_px.png)
 
+
 ![image](https://github.com/ntdoris/dsc-project-4/blob/main/images/tweet_volume_vs_bitcoin_px.png)
 
 ## For More Information
