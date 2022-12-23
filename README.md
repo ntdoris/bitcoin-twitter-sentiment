@@ -2,7 +2,7 @@
 
 ## Project Overview & Objective
 
-This project seeks to build a model that accurately classifies tweets about Bitcoin as having either positive or negative sentiment. Unlabeled tweets classified by this model could ultimately could be used to analyze time trends on Bitcoin sentiment and assess the predictive power of tweets on future price movements of the cryptocurrency.
+This project seeks to build a model that accurately classifies tweets about Bitcoin as having either positive or negative sentiment. Unlabeled tweets classified by this model could ultimately could be used to analyze time trends on Bitcoin sentiment and assess the predictive power of Twitter sentiment on future price movements of the cryptocurrency.
 
 ## The Data
 
