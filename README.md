@@ -14,7 +14,7 @@ This project uses Twitter data sourced from [Kaggle](https://www.kaggle.com/data
 
 * In this analysis we target sentiment - positive or negative.
 * Sentiment is fairly balanced, with around 53 percent of tweets labeled as negative and 47 percent positive.
-![image](https://github.com/ntdoris/dsc-project-4/blob/main/images/sentiment_distribution.png)
+![image](https://github.com/ntdoris/dsc-project-4/blob/main/images/tweet_distribution.png)
 
 ### Evaluation Metrics
 
@@ -32,14 +32,15 @@ This project uses Twitter data sourced from [Kaggle](https://www.kaggle.com/data
 * Most important features in negative tweets include:
 ![image](https://github.com/ntdoris/dsc-project-4/blob/main/images/feat_importance_neg20.png)
 
-
-## Conclusion
-
-* Final model can classify unlabeled Tweets as positive or negative with ~97 percent accuracy
 * Just 3 percent of validation data categorized as negative when it was actually positive
 * Just 1.8 percent of validation data categorized as positive when it was actually negative
 
 ![image](https://github.com/ntdoris/dsc-project-4/blob/main/images/final_confusion_matrix_normalized.png)
+
+## Conclusion
+
+* Final model can classify unlabeled Tweets as positive or negative with ~97 percent accuracy, 97 percent F1 score
+
 
 ### Next Steps / Recommendations
 
