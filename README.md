@@ -39,15 +39,18 @@ This project uses Twitter data sourced from [Kaggle](https://www.kaggle.com/data
 
 ## Conclusion
 
+* A Logistic Regression model was the best-performing classifier, with Count Vectorization used to process the annotated tweets
 * Final model can classify unlabeled Tweets as positive or negative with ~97 percent accuracy, 97 percent F1 score
+* Words important to the model included ?best?, ?awesome?, ?successful?, ?insane?, ?worst?, ?worthless?
+* Positive tweets had more hashtags on average, negative tweets more frequently contained a price
 
 
 ### Next Steps / Recommendations
 
-* Pull more recent Tweets on Bitcoin via Twitter API
-* Run final model on real-time data
+* Pull more recent Tweets on Bitcoin via Twitter API and run final model on real-time data
 * Use model-labeled Tweets to conduct Time Series Analysis, with the aim of understanding the predictive power of Tweet sentiment on the price of BTC
-![image](url)
+![image](https://github.com/ntdoris/dsc-project-4/blob/main/images/tweet_sentiment_vs_bitcoin_px.png)
+![image](https://github.com/ntdoris/dsc-project-4/blob/main/images/tweet_volume_vs_bitcoin_px.png)
 
 ## For More Information
 
