@@ -1,4 +1,4 @@
-# Flatiron Phase 4 Project: Classifying Bitcoin Tweet Sentiment
+# Classifying Bitcoin Tweet Sentiment
 
 ## Project Overview & Objective
 
