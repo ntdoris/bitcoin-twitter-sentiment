@@ -41,7 +41,7 @@ This project uses Twitter data sourced from [Kaggle](https://www.kaggle.com/data
 
 * A Logistic Regression model was the best-performing classifier, with Count Vectorization used to process the annotated tweets
 * Final model can classify unlabeled Tweets as positive or negative with ~97 percent accuracy, 97 percent F1 score
-* Words important to the model included ?best?, ?awesome?, ?successful?, ?insane?, ?worst?, ?worthless?
+* Words important to the model included 'best', 'awesome', 'successful', 'insane', 'worst', 'worthless'
 * Positive tweets had more hashtags on average, negative tweets more frequently contained a price
 
 
